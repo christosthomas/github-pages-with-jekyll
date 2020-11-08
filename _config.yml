@@ -1,5 +1,6 @@
 title: Computer Science Student
 author: Christos Thomas 
+date: 2020-11-08
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,7 +13,6 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-title: Chris Thomas
-date: 2020-11-08
+
 
 
